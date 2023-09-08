@@ -1,2 +1,2 @@
-# Data-processing-in-Python-project
-Intraday patterns of the price impact coefficient in the Bitcoin market
+# Intraday patterns of the price impact coefficient in the Bitcoin market
+We use Binance data for Bitcoin analysis. We followed the methods proposed by Cont et al. (2014) - The Price Impact of Order Book Events. We aimed to gain insights into how the price impact coefficient of Bitcoin, a key metric in understanding market dynamics, varies throughout the trading day. Our findings enlighten how different times of the day may have distinct levels of liquidity, trading volume, and price sensitivity in the Bitcoin market.
